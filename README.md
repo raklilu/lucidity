@@ -1,6 +1,6 @@
 lucidity
 ========
-
+ 
 <a src="http://en.wikipedia.org/wiki/Lucid_dream">Lucid dreaming</a> is being able to actively control your dreams. The key to enabling this is to be aware that you are in your dream. This project utilizes Arduino to help build a sleep mask that will achieve this. 
 
 How it will work:
